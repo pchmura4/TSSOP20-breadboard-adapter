@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TSSOP20-rescue)(type Legacy)(uri ${KIPRJMOD}/TSSOP20-rescue.lib)(options "")(descr ""))
+)
